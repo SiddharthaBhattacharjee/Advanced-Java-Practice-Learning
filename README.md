@@ -6,3 +6,7 @@ My practice problems and codes from learning advanced java. This is a part of #1
   2) Implementing Threads using Thread class.
   3) Implementing Threads using Runnable Interface.
   4) Creating Cibstructors in Threads.
+  5) Life Cycle of a thread.
+  6) Thread Priorities.
+  7) Thread Methods.
+
