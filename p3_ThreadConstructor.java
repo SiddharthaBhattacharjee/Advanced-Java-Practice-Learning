@@ -2,8 +2,8 @@ package com.example;
 
 class myThr extends Thread{
     public myThr(String name){
-        super(name);
-    }
+    super(name);
+}
     @Override
     public void run(){
         System.out.println("Thread Started...");
