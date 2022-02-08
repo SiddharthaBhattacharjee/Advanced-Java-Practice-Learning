@@ -10,3 +10,10 @@ My practice problems and codes from learning advanced java. This is a part of #1
   6) Thread Priorities.
   7) Thread Methods.
 
+* #### Chapter 2) Exception Handeling :
+  1) About Errors and Exceptions.
+  2) Commonly occuring Exceptions.
+  3) Try Catch Block.
+  4) Handeling specific exceptions.
+  5) Custom exceptions using Exception class.
+  6) Throw key word and its uses.
