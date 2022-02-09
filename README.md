@@ -17,3 +17,6 @@ My practice problems and codes from learning advanced java. This is a part of #1
   4) Handeling specific exceptions.
   5) Custom exceptions using Exception class.
   6) Throw key word and its uses.
+  7) Throws.
+  8) Throw vs Throws .
+  9) Finally Block.
