@@ -20,3 +20,9 @@ My practice problems and codes from learning advanced java. This is a part of #1
   7) Throws.
   8) Throw vs Throws .
   9) Finally Block.
+
+* #### Chapter 3) Collection Framework :
+  1) About Collection Framework and its applications.
+  2) Commonly used collections.
+  3) Collections Higherarchy.
+  4) ArrayList.
