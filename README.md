@@ -26,3 +26,7 @@ My practice problems and codes from learning advanced java. This is a part of #1
   2) Commonly used collections.
   3) Collections Higherarchy.
   4) ArrayList.
+  5) LinkedList.
+  6) LinkedList vs ArrayList.
+  7) ArrayDeque.
+  8) Basics of Hashing Technique.
