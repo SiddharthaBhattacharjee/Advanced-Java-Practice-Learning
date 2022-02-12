@@ -30,3 +30,11 @@ My practice problems and codes from learning advanced java. This is a part of #1
   6) LinkedList vs ArrayList.
   7) ArrayDeque.
   8) Basics of Hashing Technique.
+  9) Some Common HAshing methods.
+  10) HashSets.
+ 
+ 
+* #### Chapter 4) Date & Time :
+  1) About Date and Time in Java.
+  2) How is Time calculated in Java.
+  3) currentTimeMillis method and operations.
