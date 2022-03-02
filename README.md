@@ -50,4 +50,4 @@ My practice problems and codes from learning advanced java. This is a part of #1
   3) How to add tags in JavaDocs.
   4) How to use HTML in JavaDocs.
   5) How to specify exceptions in JavaDocs.
-  6) How to document multiple class of a single file in javadoc.
+  6) How to document multiple class of a single file using javadoc.
