@@ -51,3 +51,27 @@ My practice problems and codes from learning advanced java. This is a part of #1
   4) How to use HTML in JavaDocs.
   5) How to specify exceptions in JavaDocs.
   6) How to document multiple class of a single file using javadoc.
+
+* #### Chapter 6) Anotations :
+  1) Introduction to Annotations.
+  2) @override.
+  3) @SupressWaarnings
+  4) @depricated
+  5) @FunctionalInterface
+
+* #### Chapter 7) Anonymous Classes & Lambda Expressions :
+  1) Anonymous Classes.
+  2) Lambda expressions.
+  3) Some shortcuts of Lambda expressions.
+
+* #### Chapter 8) Java Generics :
+  1) Introduction to generics.
+  2) In Built generic classes.
+  3) Creating generic classes.
+  4) Instantiating generic classes.
+ 
+* #### Chapter 9) File Handling in Java :
+  1) Introduction to file handling.
+  2) Creating File Object.
+  3) Writing in file.
+  4) Reading from file.
